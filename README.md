@@ -59,3 +59,7 @@ Please feel free to join  the discussion:
 **email: acmhi@protonmail.com**
 
 Nicolas
+
+![ccbysa](https://user-images.githubusercontent.com/23166543/69980203-0ed9f500-1530-11ea-83f5-52d04a2e9294.png)
+This project is licensed under the terms of the [CC-BY-4.0](https://choosealicense.com/licenses/cc-by-4.0/) license. 
+
